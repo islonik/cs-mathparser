@@ -1,0 +1,8 @@
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\obj\Debug\ResolveAssemblyReference.cache
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\obj\Debug\GUI.GUI.resources
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\obj\Debug\Parsing (GUI).csproj.GenerateResource.Cache
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\bin\Debug\Parsing.exe
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\bin\Debug\Parsing.pdb
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\obj\Debug\Parsing.Properties.Resources.resources
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\obj\Debug\Parsing.exe
+D:\My documents\Object-oriented programming\Programming\C#\Windows Forms\Parsing (GUI)\Parsing (GUI)\obj\Debug\Parsing.pdb
